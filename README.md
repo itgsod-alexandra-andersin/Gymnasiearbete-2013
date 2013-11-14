@@ -1,7 +1,7 @@
 Gymnasiearbete-2013
 ===================
-Alexandra Andersin
-Sebastian Bogic
+Alexandra Andersin & Sebastian Bogic
+
 -----
 Project
 ----
